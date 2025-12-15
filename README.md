@@ -94,7 +94,7 @@ graph TD
 
 1. **克隆项目**
 ```bash
-git clone https://github.com/your-username/intelligent-investment-advisor.git
+git clone https://github.com/Fervidstar/intelligent-investment-advisor.git
 cd intelligent-investment-advisor
 ```
 
