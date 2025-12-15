@@ -1,0 +1,7 @@
+agentscope[full]==1.0.9
+numpy
+pandas
+tushare
+# 训练与使用相似度模型
+torch
+sentence_transformers
